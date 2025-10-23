@@ -8,7 +8,8 @@ For further reference, please consider the following sections:
 
 * [Develop with Redis](https://redis.io/docs/latest/develop/)
 * [Spring Data Redis](https://spring.io/projects/spring-data-redis)
-* [Jedis guide (Java)](https://redis.io/docs/latest/develop/clients/jedis/)
+* [Jedis guide (Redis)](https://redis.io/docs/latest/develop/clients/jedis/)
+* [Configuring the Jedis Connector (Spring)](https://docs.spring.io/spring-data/redis/reference/redis/drivers.html#redis:connectors:jedis)
 
 ### Details
 Stay tuned...
