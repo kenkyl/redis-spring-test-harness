@@ -13,3 +13,8 @@ For further reference, please consider the following sections:
 
 ### Details
 Stay tuned...
+
+1. clone
+2. `cd redis-spring-test-harness`
+3. `mvn clean install -DskipTests`
+4. `mvn spring-boot:run`
